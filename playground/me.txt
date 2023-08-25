@@ -1,6 +1,0 @@
-{{#user}}
-Name: Niket Mishra
-Skills: HTML, CSS, JS, Next.js
-Email: mishraniket452@gmail.com
-{{/user}}
-
